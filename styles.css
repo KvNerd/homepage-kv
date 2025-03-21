@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+body {
+	font-family: "Cabin", sans-serif;
+    background-color: #f4f0ea;
+    color: #798252;
+    margin: 0;
+    padding: 0; 
+}
+
+.logo {
+    text-align: left;
+    padding: 10px;
+    margin: 0;
+    color: #798252;
+    font-size: 40px;
+    background-image: url('c:\Users\PC\Desktop\homepage do kaio\imagens\start fundo.jpeg');
+    background-size: cover;
+}
+
+.Jobimg {
+    margin: 1px;
+    width: 10%;
+    height: 8%;
+    
+}
+
+
+/*classes */
+.redes-sociais {
+    background-color: #798252;
+	padding: 10px;
+	text-align: right;
+}
+
+.redes-sociais a {
+    margin-left: 10px; /* Adiciona um espaçamento entre os ícones */
+    font-size: 20px; /* Ajuste conforme necessário */
+    color: rgb(255, 255, 255); /* Cor dos ícones */
+    text-decoration: none; /* Remove o sublinhado */
+}
+
+.redes-sociais a:hover {
+   
+    color: #000000; 
+
+}
+.conteudo {
+    text-align: center;
+    color: #000000;
+    font-size: 20px;
+    padding: 20px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #f4f0ea;
+}
+
+.JobHunter {
+    color: #798252;
+    padding: 10px;
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fundo {
+    background-image: url('c:\Users\PC\Desktop\homepage do kaio\imagens\start fundo.jpeg');
+    text-align: left;
+}
+
+.linkedinp
+{
+  
+    text-align: center;
+    background-image: url('c:\Users\PC\Desktop\homepage do kaio\imagens\linkedin perfil.jpeg');
+    width: 50%;
+}
+
+.andreia
+{
+    background-image: url('c:\Users\PC\Desktop\homepage do kaio\imagens\andreia.jpeg');
+    width: 15%;
+    text-align: left;
+}
+.cv1
+{
+    background-image: url('c:\Users\PC\Desktop\homepage do kaio\imagens\curriculo.jpeg');
+    width: 10%;
+    text-align: left;
+}
+.Curriculo
+{
+    color: #798252;
+    padding: 10px;
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.exemplo
+{
+    font-size: 30px;
+    color: #000000;
+}
+.Serviçosstt
+{
+    color: #080404;
+    font-size: 70px;
+}
+.Rodape
+{    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 7px;
+}
